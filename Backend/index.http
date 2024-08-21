@@ -1,0 +1,7 @@
+PUT http://localhost:3000/45724884
+
+{
+  "nombre": "eliana",
+  "apellido": "guerra",
+  "dni": "26137924"
+}
